@@ -1,0 +1,201 @@
+merchant_id,merchant_name,country,region,mcc_category,contract_fee_pct,ip_subnet,anomaly_tag
+MERCH_0001,Digital_Partner_1,ES,EU,Digital Goods,0.015,185.102.15,Normal
+MERCH_0002,Travel_Partner_2,NL,EU,Travel & Airlines,0.0169,185.198.21,Normal
+MERCH_0003,SaaS_Partner_3,CY,EU,SaaS & Subscriptions,0.0172,185.220.215,Normal
+MERCH_0004,Online_Partner_4,AE,MENA,Online Gaming,0.0265,185.97.117,Normal
+MERCH_0005,E-commerce_Partner_5,SA,MENA,E-commerce Retail,0.006,185.161.131,Margin_Leakage
+MERCH_0006,Digital_Partner_6,EG,MENA,Digital Goods,0.0302,185.11.88,Normal
+MERCH_0007,Travel_Partner_7,DE,EU,Travel & Airlines,0.0167,185.47.130,Chargeback_Spike
+MERCH_0008,SaaS_Partner_8,ES,EU,SaaS & Subscriptions,0.0135,185.30.161,Normal
+MERCH_0009,Online_Partner_9,NL,EU,Online Gaming,0.0134,185.31.236,Normal
+MERCH_0010,E-commerce_Partner_10,CY,EU,E-commerce Retail,0.0162,185.228.59,Normal
+MERCH_0011,Digital_Partner_11,AE,MENA,Digital Goods,0.0292,185.229.188,Normal
+MERCH_0012,Travel_Partner_12,SA,MENA,Travel & Airlines,0.0309,185.199.190,Normal
+MERCH_0013,SaaS_Partner_13,EG,MENA,SaaS & Subscriptions,0.0363,185.60.108,Normal
+MERCH_0014,Online_Partner_14,DE,EU,Online Gaming,0.0141,185.220.101,Fraud_Ring_IP
+MERCH_0015,E-commerce_Partner_15,ES,EU,E-commerce Retail,0.0124,185.60.135,Normal
+MERCH_0016,Digital_Partner_16,NL,EU,Digital Goods,0.0124,185.176.18,Normal
+MERCH_0017,Travel_Partner_17,CY,EU,Travel & Airlines,0.0236,185.69.14,Normal
+MERCH_0018,SaaS_Partner_18,AE,MENA,SaaS & Subscriptions,0.0325,185.18.90,Normal
+MERCH_0019,Online_Partner_19,SA,MENA,Online Gaming,0.006,185.93.92,Margin_Leakage
+MERCH_0020,E-commerce_Partner_20,EG,MENA,E-commerce Retail,0.0335,185.208.172,Normal
+MERCH_0021,Digital_Partner_21,DE,EU,Digital Goods,0.014,185.184.35,Chargeback_Spike
+MERCH_0022,Travel_Partner_22,ES,EU,Travel & Airlines,0.0193,185.173.50,Normal
+MERCH_0023,SaaS_Partner_23,NL,EU,SaaS & Subscriptions,0.0163,185.11.134,Normal
+MERCH_0024,Online_Partner_24,CY,EU,Online Gaming,0.0177,185.13.54,Normal
+MERCH_0025,E-commerce_Partner_25,AE,MENA,E-commerce Retail,0.0263,185.155.218,Normal
+MERCH_0026,Digital_Partner_26,SA,MENA,Digital Goods,0.0316,185.211.190,Normal
+MERCH_0027,Travel_Partner_27,EG,MENA,Travel & Airlines,0.0374,185.104.48,Normal
+MERCH_0028,SaaS_Partner_28,DE,EU,SaaS & Subscriptions,0.0126,185.220.101,Fraud_Ring_IP
+MERCH_0029,Online_Partner_29,ES,EU,Online Gaming,0.0162,185.199.40,Normal
+MERCH_0030,E-commerce_Partner_30,NL,EU,E-commerce Retail,0.0178,185.246.82,Normal
+MERCH_0031,Digital_Partner_31,CY,EU,Digital Goods,0.0203,185.33.154,Normal
+MERCH_0032,Travel_Partner_32,AE,MENA,Travel & Airlines,0.0337,185.197.124,Normal
+MERCH_0033,SaaS_Partner_33,SA,MENA,SaaS & Subscriptions,0.006,185.166.15,Margin_Leakage
+MERCH_0034,Online_Partner_34,EG,MENA,Online Gaming,0.0313,185.98.71,Normal
+MERCH_0035,E-commerce_Partner_35,DE,EU,E-commerce Retail,0.0134,185.138.236,Normal
+MERCH_0036,Digital_Partner_36,ES,EU,Digital Goods,0.0143,185.72.139,Normal
+MERCH_0037,Travel_Partner_37,NL,EU,Travel & Airlines,0.0126,185.145.163,Normal
+MERCH_0038,SaaS_Partner_38,CY,EU,SaaS & Subscriptions,0.0223,185.132.5,Normal
+MERCH_0039,Online_Partner_39,AE,MENA,Online Gaming,0.0334,185.50.28,Normal
+MERCH_0040,E-commerce_Partner_40,SA,MENA,E-commerce Retail,0.0349,185.81.12,Normal
+MERCH_0041,Digital_Partner_41,EG,MENA,Digital Goods,0.0326,185.57.247,Normal
+MERCH_0042,Travel_Partner_42,DE,EU,Travel & Airlines,0.0125,185.220.101,Fraud_Ring_IP
+MERCH_0043,SaaS_Partner_43,ES,EU,SaaS & Subscriptions,0.0178,185.113.214,Normal
+MERCH_0044,Online_Partner_44,NL,EU,Online Gaming,0.0181,185.202.227,Normal
+MERCH_0045,E-commerce_Partner_45,CY,EU,E-commerce Retail,0.017,185.215.131,Normal
+MERCH_0046,Digital_Partner_46,AE,MENA,Digital Goods,0.0321,185.227.247,Normal
+MERCH_0047,Travel_Partner_47,SA,MENA,Travel & Airlines,0.0342,185.112.27,Normal
+MERCH_0048,SaaS_Partner_48,EG,MENA,SaaS & Subscriptions,0.0342,185.24.90,Normal
+MERCH_0049,Online_Partner_49,DE,EU,Online Gaming,0.0102,185.214.179,Normal
+MERCH_0050,E-commerce_Partner_50,ES,EU,E-commerce Retail,0.0123,185.240.241,Normal
+MERCH_0051,Digital_Partner_51,NL,EU,Digital Goods,0.0135,185.105.132,Normal
+MERCH_0052,Travel_Partner_52,CY,EU,Travel & Airlines,0.0233,185.160.231,Normal
+MERCH_0053,SaaS_Partner_53,AE,MENA,SaaS & Subscriptions,0.0293,185.180.29,Normal
+MERCH_0054,Online_Partner_54,SA,MENA,Online Gaming,0.0298,185.169.71,Normal
+MERCH_0055,E-commerce_Partner_55,EG,MENA,E-commerce Retail,0.0323,185.95.28,Normal
+MERCH_0056,Digital_Partner_56,DE,EU,Digital Goods,0.0174,185.220.101,Fraud_Ring_IP
+MERCH_0057,Travel_Partner_57,ES,EU,Travel & Airlines,0.0171,185.143.28,Normal
+MERCH_0058,SaaS_Partner_58,NL,EU,SaaS & Subscriptions,0.0174,185.53.84,Normal
+MERCH_0059,Online_Partner_59,CY,EU,Online Gaming,0.0231,185.84.128,Normal
+MERCH_0060,E-commerce_Partner_60,AE,MENA,E-commerce Retail,0.0325,185.101.217,Normal
+MERCH_0061,Digital_Partner_61,SA,MENA,Digital Goods,0.0305,185.234.129,Normal
+MERCH_0062,Travel_Partner_62,EG,MENA,Travel & Airlines,0.0318,185.199.121,Normal
+MERCH_0063,SaaS_Partner_63,DE,EU,SaaS & Subscriptions,0.0165,185.242.3,Normal
+MERCH_0064,Online_Partner_64,ES,EU,Online Gaming,0.0121,185.209.155,Normal
+MERCH_0065,E-commerce_Partner_65,NL,EU,E-commerce Retail,0.0143,185.174.225,Normal
+MERCH_0066,Digital_Partner_66,CY,EU,Digital Goods,0.017,185.181.152,Normal
+MERCH_0067,Travel_Partner_67,AE,MENA,Travel & Airlines,0.0335,185.127.160,Normal
+MERCH_0068,SaaS_Partner_68,SA,MENA,SaaS & Subscriptions,0.0322,185.242.180,Normal
+MERCH_0069,Online_Partner_69,EG,MENA,Online Gaming,0.0329,185.195.52,Normal
+MERCH_0070,E-commerce_Partner_70,DE,EU,E-commerce Retail,0.012,185.48.130,Normal
+MERCH_0071,Digital_Partner_71,ES,EU,Digital Goods,0.0177,185.110.113,Normal
+MERCH_0072,Travel_Partner_72,NL,EU,Travel & Airlines,0.019,185.196.113,Normal
+MERCH_0073,SaaS_Partner_73,CY,EU,SaaS & Subscriptions,0.0238,185.229.54,Normal
+MERCH_0074,Online_Partner_74,AE,MENA,Online Gaming,0.0263,185.233.225,Normal
+MERCH_0075,E-commerce_Partner_75,SA,MENA,E-commerce Retail,0.0331,185.135.130,Normal
+MERCH_0076,Digital_Partner_76,EG,MENA,Digital Goods,0.0342,185.227.160,Normal
+MERCH_0077,Travel_Partner_77,DE,EU,Travel & Airlines,0.0144,185.77.183,Normal
+MERCH_0078,SaaS_Partner_78,ES,EU,SaaS & Subscriptions,0.0181,185.132.145,Normal
+MERCH_0079,Online_Partner_79,NL,EU,Online Gaming,0.0168,185.33.69,Normal
+MERCH_0080,E-commerce_Partner_80,CY,EU,E-commerce Retail,0.0211,185.207.214,Normal
+MERCH_0081,Digital_Partner_81,AE,MENA,Digital Goods,0.0303,185.249.144,Normal
+MERCH_0082,Travel_Partner_82,SA,MENA,Travel & Airlines,0.0347,185.133.187,Normal
+MERCH_0083,SaaS_Partner_83,EG,MENA,SaaS & Subscriptions,0.0315,185.102.3,Normal
+MERCH_0084,Online_Partner_84,DE,EU,Online Gaming,0.0147,185.196.164,Normal
+MERCH_0085,E-commerce_Partner_85,ES,EU,E-commerce Retail,0.0121,185.204.147,Normal
+MERCH_0086,Digital_Partner_86,NL,EU,Digital Goods,0.0138,185.208.52,Normal
+MERCH_0087,Travel_Partner_87,CY,EU,Travel & Airlines,0.0235,185.177.128,Normal
+MERCH_0088,SaaS_Partner_88,AE,MENA,SaaS & Subscriptions,0.0301,185.113.129,Normal
+MERCH_0089,Online_Partner_89,SA,MENA,Online Gaming,0.0334,185.194.217,Normal
+MERCH_0090,E-commerce_Partner_90,EG,MENA,E-commerce Retail,0.0317,185.168.222,Normal
+MERCH_0091,Digital_Partner_91,DE,EU,Digital Goods,0.0156,185.16.144,Normal
+MERCH_0092,Travel_Partner_92,ES,EU,Travel & Airlines,0.0185,185.69.113,Normal
+MERCH_0093,SaaS_Partner_93,NL,EU,SaaS & Subscriptions,0.0129,185.57.140,Normal
+MERCH_0094,Online_Partner_94,CY,EU,Online Gaming,0.0205,185.169.247,Normal
+MERCH_0095,E-commerce_Partner_95,AE,MENA,E-commerce Retail,0.0287,185.108.147,Normal
+MERCH_0096,Digital_Partner_96,SA,MENA,Digital Goods,0.0338,185.140.148,Normal
+MERCH_0097,Travel_Partner_97,EG,MENA,Travel & Airlines,0.0371,185.129.161,Normal
+MERCH_0098,SaaS_Partner_98,DE,EU,SaaS & Subscriptions,0.0151,185.84.113,Normal
+MERCH_0099,Online_Partner_99,ES,EU,Online Gaming,0.0133,185.175.104,Normal
+MERCH_0100,E-commerce_Partner_100,NL,EU,E-commerce Retail,0.0159,185.236.112,Normal
+MERCH_0101,Digital_Partner_101,CY,EU,Digital Goods,0.0168,185.108.153,Normal
+MERCH_0102,Travel_Partner_102,AE,MENA,Travel & Airlines,0.026,185.137.110,Normal
+MERCH_0103,SaaS_Partner_103,SA,MENA,SaaS & Subscriptions,0.0324,185.63.163,Normal
+MERCH_0104,Online_Partner_104,EG,MENA,Online Gaming,0.0352,185.178.228,Normal
+MERCH_0105,E-commerce_Partner_105,DE,EU,E-commerce Retail,0.0157,185.42.142,Normal
+MERCH_0106,Digital_Partner_106,ES,EU,Digital Goods,0.0146,185.157.248,Normal
+MERCH_0107,Travel_Partner_107,NL,EU,Travel & Airlines,0.0162,185.144.195,Normal
+MERCH_0108,SaaS_Partner_108,CY,EU,SaaS & Subscriptions,0.0213,185.42.176,Normal
+MERCH_0109,Online_Partner_109,AE,MENA,Online Gaming,0.0267,185.124.214,Normal
+MERCH_0110,E-commerce_Partner_110,SA,MENA,E-commerce Retail,0.0301,185.247.158,Normal
+MERCH_0111,Digital_Partner_111,EG,MENA,Digital Goods,0.0378,185.118.51,Normal
+MERCH_0112,Travel_Partner_112,DE,EU,Travel & Airlines,0.0171,185.36.27,Normal
+MERCH_0113,SaaS_Partner_113,ES,EU,SaaS & Subscriptions,0.0184,185.39.97,Normal
+MERCH_0114,Online_Partner_114,NL,EU,Online Gaming,0.0156,185.201.225,Normal
+MERCH_0115,E-commerce_Partner_115,CY,EU,E-commerce Retail,0.0176,185.70.48,Normal
+MERCH_0116,Digital_Partner_116,AE,MENA,Digital Goods,0.0282,185.44.192,Normal
+MERCH_0117,Travel_Partner_117,SA,MENA,Travel & Airlines,0.0332,185.26.172,Normal
+MERCH_0118,SaaS_Partner_118,EG,MENA,SaaS & Subscriptions,0.0375,185.230.46,Normal
+MERCH_0119,Online_Partner_119,DE,EU,Online Gaming,0.0173,185.108.124,Normal
+MERCH_0120,E-commerce_Partner_120,ES,EU,E-commerce Retail,0.0121,185.33.93,Normal
+MERCH_0121,Digital_Partner_121,NL,EU,Digital Goods,0.0144,185.190.95,Normal
+MERCH_0122,Travel_Partner_122,CY,EU,Travel & Airlines,0.0237,185.234.116,Normal
+MERCH_0123,SaaS_Partner_123,AE,MENA,SaaS & Subscriptions,0.0284,185.222.160,Normal
+MERCH_0124,Online_Partner_124,SA,MENA,Online Gaming,0.0348,185.76.128,Normal
+MERCH_0125,E-commerce_Partner_125,EG,MENA,E-commerce Retail,0.033,185.243.223,Normal
+MERCH_0126,Digital_Partner_126,DE,EU,Digital Goods,0.0168,185.76.104,Normal
+MERCH_0127,Travel_Partner_127,ES,EU,Travel & Airlines,0.0126,185.123.32,Normal
+MERCH_0128,SaaS_Partner_128,NL,EU,SaaS & Subscriptions,0.0164,185.160.194,Normal
+MERCH_0129,Online_Partner_129,CY,EU,Online Gaming,0.018,185.243.130,Normal
+MERCH_0130,E-commerce_Partner_130,AE,MENA,E-commerce Retail,0.0286,185.113.161,Normal
+MERCH_0131,Digital_Partner_131,SA,MENA,Digital Goods,0.0291,185.185.39,Normal
+MERCH_0132,Travel_Partner_132,EG,MENA,Travel & Airlines,0.0323,185.35.99,Normal
+MERCH_0133,SaaS_Partner_133,DE,EU,SaaS & Subscriptions,0.012,185.161.13,Normal
+MERCH_0134,Online_Partner_134,ES,EU,Online Gaming,0.0127,185.144.57,Normal
+MERCH_0135,E-commerce_Partner_135,NL,EU,E-commerce Retail,0.016,185.29.65,Normal
+MERCH_0136,Digital_Partner_136,CY,EU,Digital Goods,0.0166,185.247.144,Normal
+MERCH_0137,Travel_Partner_137,AE,MENA,Travel & Airlines,0.0264,185.124.215,Normal
+MERCH_0138,SaaS_Partner_138,SA,MENA,SaaS & Subscriptions,0.0282,185.107.66,Normal
+MERCH_0139,Online_Partner_139,EG,MENA,Online Gaming,0.0335,185.200.86,Normal
+MERCH_0140,E-commerce_Partner_140,DE,EU,E-commerce Retail,0.0126,185.195.63,Normal
+MERCH_0141,Digital_Partner_141,ES,EU,Digital Goods,0.0199,185.159.58,Normal
+MERCH_0142,Travel_Partner_142,NL,EU,Travel & Airlines,0.0179,185.58.180,Normal
+MERCH_0143,SaaS_Partner_143,CY,EU,SaaS & Subscriptions,0.0163,185.24.54,Normal
+MERCH_0144,Online_Partner_144,AE,MENA,Online Gaming,0.0303,185.110.225,Normal
+MERCH_0145,E-commerce_Partner_145,SA,MENA,E-commerce Retail,0.0346,185.69.236,Normal
+MERCH_0146,Digital_Partner_146,EG,MENA,Digital Goods,0.0377,185.112.196,Normal
+MERCH_0147,Travel_Partner_147,DE,EU,Travel & Airlines,0.0167,185.233.116,Normal
+MERCH_0148,SaaS_Partner_148,ES,EU,SaaS & Subscriptions,0.0153,185.108.55,Normal
+MERCH_0149,Online_Partner_149,NL,EU,Online Gaming,0.0121,185.153.13,Normal
+MERCH_0150,E-commerce_Partner_150,CY,EU,E-commerce Retail,0.0238,185.115.158,Normal
+MERCH_0151,Digital_Partner_151,AE,MENA,Digital Goods,0.0263,185.129.63,Normal
+MERCH_0152,Travel_Partner_152,SA,MENA,Travel & Airlines,0.0315,185.67.183,Normal
+MERCH_0153,SaaS_Partner_153,EG,MENA,SaaS & Subscriptions,0.032,185.227.117,Normal
+MERCH_0154,Online_Partner_154,DE,EU,Online Gaming,0.0106,185.136.137,Normal
+MERCH_0155,E-commerce_Partner_155,ES,EU,E-commerce Retail,0.0175,185.138.58,Normal
+MERCH_0156,Digital_Partner_156,NL,EU,Digital Goods,0.0183,185.248.34,Normal
+MERCH_0157,Travel_Partner_157,CY,EU,Travel & Airlines,0.0179,185.127.48,Normal
+MERCH_0158,SaaS_Partner_158,AE,MENA,SaaS & Subscriptions,0.0275,185.246.117,Normal
+MERCH_0159,Online_Partner_159,SA,MENA,Online Gaming,0.0331,185.198.231,Normal
+MERCH_0160,E-commerce_Partner_160,EG,MENA,E-commerce Retail,0.0353,185.78.22,Normal
+MERCH_0161,Digital_Partner_161,DE,EU,Digital Goods,0.0158,185.204.76,Normal
+MERCH_0162,Travel_Partner_162,ES,EU,Travel & Airlines,0.0165,185.188.229,Normal
+MERCH_0163,SaaS_Partner_163,NL,EU,SaaS & Subscriptions,0.012,185.38.206,Normal
+MERCH_0164,Online_Partner_164,CY,EU,Online Gaming,0.0167,185.56.241,Normal
+MERCH_0165,E-commerce_Partner_165,AE,MENA,E-commerce Retail,0.0285,185.199.244,Normal
+MERCH_0166,Digital_Partner_166,SA,MENA,Digital Goods,0.0294,185.153.218,Normal
+MERCH_0167,Travel_Partner_167,EG,MENA,Travel & Airlines,0.0361,185.94.39,Normal
+MERCH_0168,SaaS_Partner_168,DE,EU,SaaS & Subscriptions,0.0128,185.231.101,Normal
+MERCH_0169,Online_Partner_169,ES,EU,Online Gaming,0.0152,185.19.246,Normal
+MERCH_0170,E-commerce_Partner_170,NL,EU,E-commerce Retail,0.0161,185.43.180,Normal
+MERCH_0171,Digital_Partner_171,CY,EU,Digital Goods,0.019,185.156.186,Normal
+MERCH_0172,Travel_Partner_172,AE,MENA,Travel & Airlines,0.03,185.78.237,Normal
+MERCH_0173,SaaS_Partner_173,SA,MENA,SaaS & Subscriptions,0.0293,185.33.80,Normal
+MERCH_0174,Online_Partner_174,EG,MENA,Online Gaming,0.0351,185.229.128,Normal
+MERCH_0175,E-commerce_Partner_175,DE,EU,E-commerce Retail,0.0151,185.93.152,Normal
+MERCH_0176,Digital_Partner_176,ES,EU,Digital Goods,0.0174,185.172.124,Normal
+MERCH_0177,Travel_Partner_177,NL,EU,Travel & Airlines,0.012,185.198.179,Normal
+MERCH_0178,SaaS_Partner_178,CY,EU,SaaS & Subscriptions,0.0226,185.21.67,Normal
+MERCH_0179,Online_Partner_179,AE,MENA,Online Gaming,0.0326,185.177.74,Normal
+MERCH_0180,E-commerce_Partner_180,SA,MENA,E-commerce Retail,0.0297,185.38.141,Normal
+MERCH_0181,Digital_Partner_181,EG,MENA,Digital Goods,0.0317,185.55.130,Normal
+MERCH_0182,Travel_Partner_182,DE,EU,Travel & Airlines,0.0103,185.44.215,Normal
+MERCH_0183,SaaS_Partner_183,ES,EU,SaaS & Subscriptions,0.0126,185.17.93,Normal
+MERCH_0184,Online_Partner_184,NL,EU,Online Gaming,0.0178,185.99.162,Normal
+MERCH_0185,E-commerce_Partner_185,CY,EU,E-commerce Retail,0.0181,185.144.196,Normal
+MERCH_0186,Digital_Partner_186,AE,MENA,Digital Goods,0.0315,185.123.237,Normal
+MERCH_0187,Travel_Partner_187,SA,MENA,Travel & Airlines,0.0355,185.129.164,Normal
+MERCH_0188,SaaS_Partner_188,EG,MENA,SaaS & Subscriptions,0.0333,185.173.138,Normal
+MERCH_0189,Online_Partner_189,DE,EU,Online Gaming,0.0134,185.161.192,Normal
+MERCH_0190,E-commerce_Partner_190,ES,EU,E-commerce Retail,0.0166,185.108.240,Normal
+MERCH_0191,Digital_Partner_191,NL,EU,Digital Goods,0.012,185.240.96,Normal
+MERCH_0192,Travel_Partner_192,CY,EU,Travel & Airlines,0.0187,185.199.224,Normal
+MERCH_0193,SaaS_Partner_193,AE,MENA,SaaS & Subscriptions,0.0329,185.122.183,Normal
+MERCH_0194,Online_Partner_194,SA,MENA,Online Gaming,0.034,185.226.99,Normal
+MERCH_0195,E-commerce_Partner_195,EG,MENA,E-commerce Retail,0.0308,185.26.113,Normal
+MERCH_0196,Digital_Partner_196,DE,EU,Digital Goods,0.014,185.121.217,Normal
+MERCH_0197,Travel_Partner_197,ES,EU,Travel & Airlines,0.0146,185.196.19,Normal
+MERCH_0198,SaaS_Partner_198,NL,EU,SaaS & Subscriptions,0.0141,185.149.189,Normal
+MERCH_0199,Online_Partner_199,CY,EU,Online Gaming,0.0232,185.85.9,Normal
+MERCH_0200,E-commerce_Partner_200,AE,MENA,E-commerce Retail,0.0286,185.215.223,Normal
